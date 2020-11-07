@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd7283b9-5efb-4577-b344-475f33f76e51" name="Default Changelist" comment="Task 1.5. Profit">
+      <change afterPath="$PROJECT_DIR$/DataTypes/list_of_types_2.1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction(T1)/profit_t1.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction(T1)/profit_t1.5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
   </component>
-  <component name="RunManager" selected="Python.sportsman_runs_t1.6">
+  <component name="RunManager" selected="Python.list_of_types_2.1">
     <configuration name="digit_magic_t1.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="highest_digit_t1.4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="list_of_types_2.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,11 +78,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Introduction(T1)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Introduction(T1)/highest_digit_t1.4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/list_of_types_2.1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.list_of_types_2.1" />
         <item itemvalue="Python.sportsman_runs_t1.6" />
         <item itemvalue="Python.time_conversion_t1.2" />
         <item itemvalue="Python.profit_t1.5" />
         <item itemvalue="Python.digit_magic_t1.3" />
-        <item itemvalue="Python.highest_digit_t1.4" />
       </list>
     </recent_temporary>
   </component>
@@ -207,26 +207,26 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1061" y="456" key="FileChooserDialogImpl/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604409460023" />
-    <state width="1259" height="262" key="GridCell.Tab.0.bottom" timestamp="1604510545797">
-      <screen x="-1280" y="1116" width="1280" height="984" />
+    <state width="2539" height="398" key="GridCell.Tab.0.bottom" timestamp="1604707243864">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1259" height="262" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1280.1116.1280.984@-1280.1116.1280.984" timestamp="1604510545797" />
-    <state width="2539" height="400" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604415751466" />
-    <state width="1259" height="262" key="GridCell.Tab.0.center" timestamp="1604510545797">
-      <screen x="-1280" y="1116" width="1280" height="984" />
+    <state width="2539" height="398" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604707243864" />
+    <state width="2539" height="398" key="GridCell.Tab.0.center" timestamp="1604707243864">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1259" height="262" key="GridCell.Tab.0.center/0.0.2560.1400/-1280.1116.1280.984@-1280.1116.1280.984" timestamp="1604510545797" />
-    <state width="2539" height="400" key="GridCell.Tab.0.center/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604415751466" />
-    <state width="1259" height="262" key="GridCell.Tab.0.left" timestamp="1604510545797">
-      <screen x="-1280" y="1116" width="1280" height="984" />
+    <state width="2539" height="398" key="GridCell.Tab.0.center/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604707243864" />
+    <state width="2539" height="398" key="GridCell.Tab.0.left" timestamp="1604707243864">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1259" height="262" key="GridCell.Tab.0.left/0.0.2560.1400/-1280.1116.1280.984@-1280.1116.1280.984" timestamp="1604510545797" />
-    <state width="2539" height="400" key="GridCell.Tab.0.left/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604415751465" />
-    <state width="1259" height="262" key="GridCell.Tab.0.right" timestamp="1604510545797">
-      <screen x="-1280" y="1116" width="1280" height="984" />
+    <state width="2539" height="398" key="GridCell.Tab.0.left/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604707243864" />
+    <state width="2539" height="398" key="GridCell.Tab.0.right" timestamp="1604707243864">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1259" height="262" key="GridCell.Tab.0.right/0.0.2560.1400/-1280.1116.1280.984@-1280.1116.1280.984" timestamp="1604510545797" />
-    <state width="2539" height="400" key="GridCell.Tab.0.right/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604415751466" />
+    <state width="2539" height="398" key="GridCell.Tab.0.right/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604707243864" />
     <state width="2539" height="492" key="GridCell.Tab.1.bottom" timestamp="1604411664733">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
