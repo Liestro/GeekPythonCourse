@@ -14,7 +14,7 @@ list_of_types = [5, 5.5, 5 + 8j,
                  bytes("bytes", encoding='utf-8'),
                  bytearray("bytearray", encoding='utf-8'),
                  None,
-                 int  # Тип тоже тип
+                 ZeroDivisionError  # Тип тоже тип
                  ]
 
 for i in list_of_types:
