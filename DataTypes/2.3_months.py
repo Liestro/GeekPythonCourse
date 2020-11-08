@@ -44,8 +44,10 @@ dict_list_months = {
 n_month = input('Введите номер месяца\n> ')
 
 if not (n_month.isdigit() and 1 <= int(n_month) <= 12):
+    # Проверка введенных данных на корректность
     print('Номер месяца должен быть целым числом в диапазоне [1, 12]')
 else:
+    # Вычисление результата
     n_month = int(n_month)
     print(f'{n_month}-й месяц из списка это {list_months[n_month - 1]}')
     print(f'{n_month}-й месяц из словаря это {dict_months[n_month]}')

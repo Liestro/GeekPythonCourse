@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd7283b9-5efb-4577-b344-475f33f76e51" name="Default Changelist" comment="Task 2.2. Pairs Swap.">
-      <change afterPath="$PROJECT_DIR$/DataTypes/Months_2.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="bd7283b9-5efb-4577-b344-475f33f76e51" name="Default Changelist" comment="Task 2.3. Months.">
+      <change beforePath="$PROJECT_DIR$/DataTypes/Months_2.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/2.3_months.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTypes/list_of_types_2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/2.1_list_of_types.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTypes/pairs_swap_2.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/2.2_pairs_swap.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +49,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
   </component>
-  <component name="RunManager" selected="Python.Months_2.3">
-    <configuration name="Months_2.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.2.3_months">
+    <configuration name="2.1_list_of_types" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,7 +62,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/Months_2.3.py" />
+      <option name="SCRIPT_NAME" value="D:\Development\Projects\Python\GeekPyCourse\HomeWork\DataTypes\2.1_list_of_types.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_of_types_2.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2.2_pairs_swap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,7 +83,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/list_of_types_2.1.py" />
+      <option name="SCRIPT_NAME" value="D:\Development\Projects\Python\GeekPyCourse\HomeWork\DataTypes\2.2_pairs_swap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pairs_swap_2.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2.3_months" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,7 +104,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/pairs_swap_2.2.py" />
+      <option name="SCRIPT_NAME" value="D:\Development\Projects\Python\GeekPyCourse\HomeWork\DataTypes\2.3_months.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,9 +157,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Months_2.3" />
-        <item itemvalue="Python.pairs_swap_2.2" />
-        <item itemvalue="Python.list_of_types_2.1" />
+        <item itemvalue="Python.2.3_months" />
+        <item itemvalue="Python.2.2_pairs_swap" />
+        <item itemvalue="Python.2.1_list_of_types" />
         <item itemvalue="Python.sportsman_runs_t1.6" />
         <item itemvalue="Python.time_conversion_t1.2" />
       </list>
@@ -197,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604839573163</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Task 2.3. Months.">
+      <created>1604842186770</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604842186770</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,33 +224,34 @@
     <MESSAGE value="Task 1.5. Profit" />
     <MESSAGE value="Task 2.1. List of different variables" />
     <MESSAGE value="Task 2.2. Pairs Swap." />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 2.2. Pairs Swap." />
+    <MESSAGE value="Task 2.3. Months." />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 2.3. Months." />
   </component>
   <component name="WindowStateProjectService">
     <state x="1061" y="456" key="FileChooserDialogImpl" timestamp="1604839926985">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1061" y="456" key="FileChooserDialogImpl/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604839926985" />
-    <state width="2539" height="398" key="GridCell.Tab.0.bottom" timestamp="1604841877158">
+    <state width="2539" height="398" key="GridCell.Tab.0.bottom" timestamp="1604842073364">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1259" height="262" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1280.1116.1280.984@-1280.1116.1280.984" timestamp="1604510545797" />
-    <state width="2539" height="398" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604841877158" />
-    <state width="2539" height="398" key="GridCell.Tab.0.center" timestamp="1604841877158">
+    <state width="2539" height="398" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604842073364" />
+    <state width="2539" height="398" key="GridCell.Tab.0.center" timestamp="1604842073364">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1259" height="262" key="GridCell.Tab.0.center/0.0.2560.1400/-1280.1116.1280.984@-1280.1116.1280.984" timestamp="1604510545797" />
-    <state width="2539" height="398" key="GridCell.Tab.0.center/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604841877158" />
-    <state width="2539" height="398" key="GridCell.Tab.0.left" timestamp="1604841877158">
+    <state width="2539" height="398" key="GridCell.Tab.0.center/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604842073364" />
+    <state width="2539" height="398" key="GridCell.Tab.0.left" timestamp="1604842073363">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1259" height="262" key="GridCell.Tab.0.left/0.0.2560.1400/-1280.1116.1280.984@-1280.1116.1280.984" timestamp="1604510545797" />
-    <state width="2539" height="398" key="GridCell.Tab.0.left/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604841877158" />
-    <state width="2539" height="398" key="GridCell.Tab.0.right" timestamp="1604841877158">
+    <state width="2539" height="398" key="GridCell.Tab.0.left/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604842073363" />
+    <state width="2539" height="398" key="GridCell.Tab.0.right" timestamp="1604842073364">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1259" height="262" key="GridCell.Tab.0.right/0.0.2560.1400/-1280.1116.1280.984@-1280.1116.1280.984" timestamp="1604510545797" />
-    <state width="2539" height="398" key="GridCell.Tab.0.right/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604841877158" />
+    <state width="2539" height="398" key="GridCell.Tab.0.right/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604842073364" />
     <state width="2539" height="492" key="GridCell.Tab.1.bottom" timestamp="1604411664733">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
