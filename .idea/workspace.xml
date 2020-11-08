@@ -19,10 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd7283b9-5efb-4577-b344-475f33f76e51" name="Default Changelist" comment="Task 2.3. Months.">
-      <change beforePath="$PROJECT_DIR$/DataTypes/Months_2.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/2.3_months.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypes/list_of_types_2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/2.1_list_of_types.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypes/pairs_swap_2.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/2.2_pairs_swap.py" afterDir="false" />
+    <list default="true" id="bd7283b9-5efb-4577-b344-475f33f76e51" name="Default Changelist" comment="Corrections">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +47,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
   </component>
-  <component name="RunManager" selected="Python.2.3_months">
+  <component name="RunManager" selected="Python.2.4_smart_split">
     <configuration name="2.1_list_of_types" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,6 +111,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="2.4_smart_split" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/2.4_smart_split.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="sportsman_runs_t1.6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,34 +153,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="time_conversion_t1.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HomeWork" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Introduction(T1)" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Introduction(T1)/time_conversion_t1.2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2.4_smart_split" />
         <item itemvalue="Python.2.3_months" />
         <item itemvalue="Python.2.2_pairs_swap" />
         <item itemvalue="Python.2.1_list_of_types" />
         <item itemvalue="Python.sportsman_runs_t1.6" />
-        <item itemvalue="Python.time_conversion_t1.2" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604842186770</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Corrections">
+      <created>1604842342923</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604842342923</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,33 +230,34 @@
     <MESSAGE value="Task 2.1. List of different variables" />
     <MESSAGE value="Task 2.2. Pairs Swap." />
     <MESSAGE value="Task 2.3. Months." />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 2.3. Months." />
+    <MESSAGE value="Corrections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrections" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1061" y="456" key="FileChooserDialogImpl" timestamp="1604839926985">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1061" y="456" key="FileChooserDialogImpl/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604839926985" />
-    <state width="2539" height="398" key="GridCell.Tab.0.bottom" timestamp="1604842073364">
+    <state width="2539" height="398" key="GridCell.Tab.0.bottom" timestamp="1604843087219">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1259" height="262" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1280.1116.1280.984@-1280.1116.1280.984" timestamp="1604510545797" />
-    <state width="2539" height="398" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604842073364" />
-    <state width="2539" height="398" key="GridCell.Tab.0.center" timestamp="1604842073364">
+    <state width="2539" height="398" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604843087219" />
+    <state width="2539" height="398" key="GridCell.Tab.0.center" timestamp="1604843087219">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1259" height="262" key="GridCell.Tab.0.center/0.0.2560.1400/-1280.1116.1280.984@-1280.1116.1280.984" timestamp="1604510545797" />
-    <state width="2539" height="398" key="GridCell.Tab.0.center/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604842073364" />
-    <state width="2539" height="398" key="GridCell.Tab.0.left" timestamp="1604842073363">
+    <state width="2539" height="398" key="GridCell.Tab.0.center/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604843087219" />
+    <state width="2539" height="398" key="GridCell.Tab.0.left" timestamp="1604843087219">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1259" height="262" key="GridCell.Tab.0.left/0.0.2560.1400/-1280.1116.1280.984@-1280.1116.1280.984" timestamp="1604510545797" />
-    <state width="2539" height="398" key="GridCell.Tab.0.left/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604842073363" />
-    <state width="2539" height="398" key="GridCell.Tab.0.right" timestamp="1604842073364">
+    <state width="2539" height="398" key="GridCell.Tab.0.left/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604843087219" />
+    <state width="2539" height="398" key="GridCell.Tab.0.right" timestamp="1604843087219">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1259" height="262" key="GridCell.Tab.0.right/0.0.2560.1400/-1280.1116.1280.984@-1280.1116.1280.984" timestamp="1604510545797" />
-    <state width="2539" height="398" key="GridCell.Tab.0.right/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604842073364" />
+    <state width="2539" height="398" key="GridCell.Tab.0.right/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604843087219" />
     <state width="2539" height="492" key="GridCell.Tab.1.bottom" timestamp="1604411664733">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
