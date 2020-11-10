@@ -19,13 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd7283b9-5efb-4577-b344-475f33f76e51" name="Default Changelist" comment="Task 2.4. Smart split">
-      <change afterPath="$PROJECT_DIR$/DataTypes(T2)/2.5_raiting.py" afterDir="false" />
+    <list default="true" id="bd7283b9-5efb-4577-b344-475f33f76e51" name="Default Changelist" comment="Task 2.5. Rating">
+      <change afterPath="$PROJECT_DIR$/DataTypes(T2)/2.6_goods.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypes/2.1_list_of_types.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes(T2)/2.1_list_of_types.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypes/2.2_pairs_swap.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes(T2)/2.2_pairs_swap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypes/2.3_months.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes(T2)/2.3_months.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypes/2.4_smart_split.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes(T2)/2.4_smart_split.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,28 +48,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
   </component>
-  <component name="RunManager" selected="Python.2.5_raiting">
-    <configuration name="2.1_list_of_types" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HomeWork" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Development\Projects\Python\GeekPyCourse\HomeWork\DataTypes\2.1_list_of_types.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.2.6_goods">
     <configuration name="2.2_pairs_swap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,13 +133,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="2.6_goods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes(T2)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes(T2)/2.6_goods.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2.6_goods" />
         <item itemvalue="Python.2.5_raiting" />
         <item itemvalue="Python.2.4_smart_split" />
         <item itemvalue="Python.2.3_months" />
         <item itemvalue="Python.2.2_pairs_swap" />
-        <item itemvalue="Python.2.1_list_of_types" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604843228926</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Task 2.5. Rating">
+      <created>1604847400374</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604847400374</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -244,52 +247,64 @@
     <MESSAGE value="Task 2.3. Months." />
     <MESSAGE value="Corrections" />
     <MESSAGE value="Task 2.4. Smart split" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 2.4. Smart split" />
+    <MESSAGE value="Task 2.5. Rating" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 2.5. Rating" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1061" y="456" key="FileChooserDialogImpl" timestamp="1604839926985">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1061" y="456" key="FileChooserDialogImpl/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604839926985" />
-    <state width="2539" height="398" key="GridCell.Tab.0.bottom" timestamp="1604846886656">
+    <state width="2539" height="398" key="GridCell.Tab.0.bottom" timestamp="1605029613161">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1259" height="262" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1280.1116.1280.984@-1280.1116.1280.984" timestamp="1604510545797" />
-    <state width="2539" height="398" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604846886656" />
-    <state width="2539" height="398" key="GridCell.Tab.0.center" timestamp="1604846886656">
+    <state width="2539" height="398" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605029613161" />
+    <state width="2539" height="398" key="GridCell.Tab.0.center" timestamp="1605029613161">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1259" height="262" key="GridCell.Tab.0.center/0.0.2560.1400/-1280.1116.1280.984@-1280.1116.1280.984" timestamp="1604510545797" />
-    <state width="2539" height="398" key="GridCell.Tab.0.center/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604846886656" />
-    <state width="2539" height="398" key="GridCell.Tab.0.left" timestamp="1604846886656">
+    <state width="2539" height="398" key="GridCell.Tab.0.center/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605029613161" />
+    <state width="2539" height="398" key="GridCell.Tab.0.left" timestamp="1605029613161">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1259" height="262" key="GridCell.Tab.0.left/0.0.2560.1400/-1280.1116.1280.984@-1280.1116.1280.984" timestamp="1604510545797" />
-    <state width="2539" height="398" key="GridCell.Tab.0.left/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604846886656" />
-    <state width="2539" height="398" key="GridCell.Tab.0.right" timestamp="1604846886656">
+    <state width="2539" height="398" key="GridCell.Tab.0.left/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605029613161" />
+    <state width="2539" height="398" key="GridCell.Tab.0.right" timestamp="1605029613161">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1259" height="262" key="GridCell.Tab.0.right/0.0.2560.1400/-1280.1116.1280.984@-1280.1116.1280.984" timestamp="1604510545797" />
-    <state width="2539" height="398" key="GridCell.Tab.0.right/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604846886656" />
-    <state width="2539" height="492" key="GridCell.Tab.1.bottom" timestamp="1604411664733">
+    <state width="2539" height="398" key="GridCell.Tab.0.right/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605029613161" />
+    <state width="2539" height="492" key="GridCell.Tab.1.bottom" timestamp="1605028571198">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604411664733" />
-    <state width="2539" height="492" key="GridCell.Tab.1.center" timestamp="1604411664733">
+    <state width="2539" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605028571198" />
+    <state width="2539" height="492" key="GridCell.Tab.1.center" timestamp="1605028571198">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="492" key="GridCell.Tab.1.center/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604411664733" />
-    <state width="2539" height="492" key="GridCell.Tab.1.left" timestamp="1604411664733">
+    <state width="2539" height="492" key="GridCell.Tab.1.center/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605028571198" />
+    <state width="2539" height="492" key="GridCell.Tab.1.left" timestamp="1605028571198">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="492" key="GridCell.Tab.1.left/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604411664733" />
-    <state width="2539" height="492" key="GridCell.Tab.1.right" timestamp="1604411664733">
+    <state width="2539" height="492" key="GridCell.Tab.1.left/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605028571198" />
+    <state width="2539" height="492" key="GridCell.Tab.1.right" timestamp="1605028571198">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="492" key="GridCell.Tab.1.right/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604411664733" />
+    <state width="2539" height="492" key="GridCell.Tab.1.right/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605028571198" />
     <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1604841456852">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604841456852" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
