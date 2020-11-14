@@ -9,21 +9,22 @@
 
 def main():
     big_sum = 0
-    while True:
-        input_string = input('Введите строку числе через пробел или "Q" для выхода\n>')
+    is_q_here = False
+    while not is_q_here:
+        input_string = input('Введите строку числе через пробел или "Q" для выхода\n>').split()
 
-        if input_string.capitalize() == 'Q':
-            print('exit')
-            return
-
-        curr_string = input_string.split()
+        is_q_here = input_string.count('Q') != 0
+        if is_q_here:
+            input_string = input_string[:input_string.index('Q')]
 
         try:
-            little_sum = sum(map(int, curr_string))
+            little_sum = sum(map(int, input_string))
             big_sum += little_sum
             print(f'{little_sum}({big_sum})')
         except ValueError as err:
             print(err)
+    else:
+        print('Exit')
 
 
 main()
