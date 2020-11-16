@@ -8,3 +8,5 @@ try:
     print(float(argv[1]) * float(argv[2]) + float(argv[3]))
 except ValueError as err:
     print(err)
+except IndexError:
+    print('Необходимо передать 3 парамерта:\n 1.Выработка в часах\n 2.Ставка в час\n 3.Премия')

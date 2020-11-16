@@ -7,7 +7,7 @@
 from random import randint
 
 # Генерируем исходный список
-start_list = [randint(0, 99) for i in range(20)]# [300, 2, 12, 44, 1, 1, 4, 10, 7, 1, 78, 123, 55]
+start_list = [randint(0, 99) for i in range(20)]  # [300, 2, 12, 44, 1, 1, 4, 10, 7, 1, 78, 123, 55]
 print(start_list)
 
 # Генерируем результирующий список
