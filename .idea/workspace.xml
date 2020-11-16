@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd7283b9-5efb-4577-b344-475f33f76e51" name="Default Changelist" comment="Task 4.3. 20 21">
-      <change afterPath="$PROJECT_DIR$/Features(T4)/4.4_not_repeat.py" afterDir="false" />
+    <list default="true" id="bd7283b9-5efb-4577-b344-475f33f76e51" name="Default Changelist" comment="Task 4.4. Not Repeat">
+      <change afterPath="$PROJECT_DIR$/Features(T4)/4.5_product_of_even.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,28 +48,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
   </component>
-  <component name="RunManager" selected="Python.4.4_not_repeat">
-    <configuration name="2.6_goods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HomeWork" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes(T2)" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes(T2)/2.6_goods.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.4.5_product_of_even">
     <configuration name="4.1_skript_with_parameters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,13 +133,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="4.5_product_of_even" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Features(T4)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Features(T4)/4.5_product_of_even.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4.5_product_of_even" />
         <item itemvalue="Python.4.4_not_repeat" />
         <item itemvalue="Python.4.3_20_21" />
         <item itemvalue="Python.4.2_greater_list" />
         <item itemvalue="Python.4.1_skript_with_parameters" />
-        <item itemvalue="Python.2.6_goods" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605550319593</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Task 4.4. Not Repeat">
+      <created>1605550731901</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605550731901</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,33 +279,34 @@
     <MESSAGE value="Task 4.1. Salary" />
     <MESSAGE value="Task 4.2. Greater List" />
     <MESSAGE value="Task 4.3. 20 21" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 4.3. 20 21" />
+    <MESSAGE value="Task 4.4. Not Repeat" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 4.4. Not Repeat" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1061" y="456" key="FileChooserDialogImpl" timestamp="1604839926985">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1061" y="456" key="FileChooserDialogImpl/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604839926985" />
-    <state width="2539" height="261" key="GridCell.Tab.0.bottom" timestamp="1605550663744">
+    <state width="2539" height="261" key="GridCell.Tab.0.bottom" timestamp="1605551139158">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1259" height="262" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1280.1116.1280.984@-1280.1116.1280.984" timestamp="1604510545797" />
-    <state width="2539" height="261" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605550663744" />
-    <state width="2539" height="261" key="GridCell.Tab.0.center" timestamp="1605550663744">
+    <state width="2539" height="261" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605551139158" />
+    <state width="2539" height="261" key="GridCell.Tab.0.center" timestamp="1605551139158">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1259" height="262" key="GridCell.Tab.0.center/0.0.2560.1400/-1280.1116.1280.984@-1280.1116.1280.984" timestamp="1604510545797" />
-    <state width="2539" height="261" key="GridCell.Tab.0.center/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605550663744" />
-    <state width="2539" height="261" key="GridCell.Tab.0.left" timestamp="1605550663744">
+    <state width="2539" height="261" key="GridCell.Tab.0.center/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605551139158" />
+    <state width="2539" height="261" key="GridCell.Tab.0.left" timestamp="1605551139158">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1259" height="262" key="GridCell.Tab.0.left/0.0.2560.1400/-1280.1116.1280.984@-1280.1116.1280.984" timestamp="1604510545797" />
-    <state width="2539" height="261" key="GridCell.Tab.0.left/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605550663744" />
-    <state width="2539" height="261" key="GridCell.Tab.0.right" timestamp="1605550663744">
+    <state width="2539" height="261" key="GridCell.Tab.0.left/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605551139158" />
+    <state width="2539" height="261" key="GridCell.Tab.0.right" timestamp="1605551139158">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1259" height="262" key="GridCell.Tab.0.right/0.0.2560.1400/-1280.1116.1280.984@-1280.1116.1280.984" timestamp="1604510545797" />
-    <state width="2539" height="261" key="GridCell.Tab.0.right/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605550663744" />
+    <state width="2539" height="261" key="GridCell.Tab.0.right/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605551139158" />
     <state width="2539" height="492" key="GridCell.Tab.1.bottom" timestamp="1605028571198">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
