@@ -6,11 +6,15 @@
 # Результат: [23, 1, 3, 10, 4, 11]
 
 from random import randint
+from itertools import filterfalse
 
 # Генерируем исходный список
-start_list = [randint(0, 99) for i in range(10)]# [2, 2, 2, 7, 23, 1, 44, 44, 3, 2, 10, 7, 4, 11]
+start_list = [randint(0, 99) for i in range(50)]  # [2, 2, 2, 7, 23, 1, 44, 44, 3, 2, 10, 7, 4, 11]
 print(start_list)
 
 # Генерируем результирующий список
 result_list = [i for i in start_list if start_list.count(i) == 1]
 print(result_list)
+
+# Альтернативное решение
+print(list(filterfalse(lambda i: start_list.count(i) > 1 ,start_list)))
