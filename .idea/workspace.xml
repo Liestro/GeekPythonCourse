@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -22,6 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
+    <list default="true" id="bd7283b9-5efb-4577-b344-475f33f76e51" name="Default Changelist" comment="Task 4.7. Factorial Generator">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Features(T4)/4.4_not_repeat.py" beforeDir="false" afterPath="$PROJECT_DIR$/Features(T4)/4.4_not_repeat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Features(T4)/4.5_product_of_even.py" beforeDir="false" afterPath="$PROJECT_DIR$/Features(T4)/4.5_product_of_even.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +46,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../BaseGeekPyCourse" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
   </component>
+  <component name="RunManager" selected="Python.4.1_skript_with_parameters">
+    <configuration name="4.1_skript_with_parameters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4.4_not_repeat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">r
+    <configuration name="4.4_not_repeat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-
+    <configuration name="4.5_product_of_even" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,7 +100,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Features(T4)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Features(T4)/4.5_product_of_even.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-
+    <configuration name="4.6_iterations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,7 +121,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Features(T4)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Features(T4)/4.6_iterations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-
+    <configuration name="4.7_factorial_generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,7 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Features(T4)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Features(T4)/4.7_factorial_generator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-
+        <item itemvalue="Python.4.1_skript_with_parameters" />
+        <item itemvalue="Python.4.7_factorial_generator" />
+        <item itemvalue="Python.4.6_iterations" />
+        <item itemvalue="Python.4.4_not_repeat" />
+        <item itemvalue="Python.4.5_product_of_even" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +226,63 @@
       <option name="project" value="LOCAL" />
       <updated>1604847400374</updated>
     </task>
-sCounter" value="14" />
+    <task id="LOCAL-00008" summary="Task 4.1. Salary">
+      <created>1605548940646</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605548940646</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Task 4.2. Greater List">
+      <created>1605549904769</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605549904769</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Task 4.3. 20 21">
+      <created>1605550319593</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605550319593</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Task 4.4. Not Repeat">
+      <created>1605550731901</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605550731901</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Task 4.5. Product of even">
+      <created>1605551271919</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605551271919</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Correction of Task 4.5.">
+      <created>1605552019632</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1605552019632</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Task 4.6. Iterations">
+      <created>1605552593398</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1605552593398</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Task 4.7. Factorial Generator">
+      <created>1605554290224</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1605554290224</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -230,27 +305,65 @@ sCounter" value="14" />
     <MESSAGE value="Corrections" />
     <MESSAGE value="Task 2.4. Smart split" />
     <MESSAGE value="Task 2.5. Rating" />
-dth="672" height="678" key="search.everywhere.popup/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605364561845" />
+    <MESSAGE value="Task 4.1. Salary" />
+    <MESSAGE value="Task 4.2. Greater List" />
+    <MESSAGE value="Task 4.3. 20 21" />
+    <MESSAGE value="Task 4.4. Not Repeat" />
+    <MESSAGE value="Task 4.5. Product of even" />
+    <MESSAGE value="Correction of Task 4.5." />
+    <MESSAGE value="Task 4.6. Iterations" />
+    <MESSAGE value="Task 4.7. Factorial Generator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 4.7. Factorial Generator" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-749" y="1437" key="FileChooserDialogImpl" timestamp="1605642043455">
+      <screen x="-1280" y="1116" width="1280" height="984" />
+    </state>
+    <state x="-749" y="1437" key="FileChooserDialogImpl/0.0.2560.1400/-1280.1116.1280.984@-1280.1116.1280.984" timestamp="1605642043455" />
+    <state x="1061" y="456" key="FileChooserDialogImpl/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605552501008" />
+    <state width="2539" height="261" key="GridCell.Tab.0.bottom" timestamp="1605554328451">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1259" height="262" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1280.1116.1280.984@-1280.1116.1280.984" timestamp="1604510545797" />
+    <state width="2539" height="261" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605554328451" />
+    <state width="2539" height="261" key="GridCell.Tab.0.center" timestamp="1605554328450">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1259" height="262" key="GridCell.Tab.0.center/0.0.2560.1400/-1280.1116.1280.984@-1280.1116.1280.984" timestamp="1604510545797" />
+    <state width="2539" height="261" key="GridCell.Tab.0.center/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605554328450" />
+    <state width="2539" height="261" key="GridCell.Tab.0.left" timestamp="1605554328450">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1259" height="262" key="GridCell.Tab.0.left/0.0.2560.1400/-1280.1116.1280.984@-1280.1116.1280.984" timestamp="1604510545797" />
+    <state width="2539" height="261" key="GridCell.Tab.0.left/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605554328450" />
+    <state width="2539" height="261" key="GridCell.Tab.0.right" timestamp="1605554328450">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1259" height="262" key="GridCell.Tab.0.right/0.0.2560.1400/-1280.1116.1280.984@-1280.1116.1280.984" timestamp="1604510545797" />
+    <state width="2539" height="261" key="GridCell.Tab.0.right/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605554328450" />
+    <state width="2539" height="492" key="GridCell.Tab.1.bottom" timestamp="1605553645619">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605553645619" />
+    <state width="2539" height="492" key="GridCell.Tab.1.center" timestamp="1605553645619">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="492" key="GridCell.Tab.1.center/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605553645619" />
+    <state width="2539" height="492" key="GridCell.Tab.1.left" timestamp="1605553645619">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="492" key="GridCell.Tab.1.left/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605553645619" />
+    <state width="2539" height="492" key="GridCell.Tab.1.right" timestamp="1605553645619">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="492" key="GridCell.Tab.1.right/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605553645619" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1605552323772">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605552323772" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Functions(T3)/3.1_division.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Functions(T3)/3.5_string_sum.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Functions(T3)/3.6_titling.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">

@@ -17,4 +17,4 @@ result_list = [i for i in start_list if start_list.count(i) == 1]
 print(result_list)
 
 # Альтернативное решение
-print(list(filterfalse(lambda i: start_list.count(i) > 1 ,start_list)))
+print(list(filterfalse(lambda i: start_list.count(i) > 1, start_list)))
