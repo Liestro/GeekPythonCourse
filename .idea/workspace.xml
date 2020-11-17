@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,8 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd7283b9-5efb-4577-b344-475f33f76e51" name="Default Changelist" comment="Task 2.5. Rating">
-      <change afterPath="$PROJECT_DIR$/DataTypes(T2)/2.6_goods.py" afterDir="false" />
+    <list default="true" id="bd7283b9-5efb-4577-b344-475f33f76e51" name="Default Changelist" comment="Corrections of Task 3.5">
+      <change afterPath="$PROJECT_DIR$/Functions(T3)/3.6_titling.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,8 +51,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
   </component>
-  <component name="RunManager" selected="Python.2.6_goods">
-    <configuration name="2.2_pairs_swap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.3.6_titling">
+    <configuration name="3.2_user_info" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,11 +60,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functions(T3)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Development\Projects\Python\GeekPyCourse\HomeWork\DataTypes\2.2_pairs_swap.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions(T3)/3.2_user_info.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.3_months" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3.3_sum_of_max" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,11 +81,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functions(T3)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Development\Projects\Python\GeekPyCourse\HomeWork\DataTypes\2.3_months.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions(T3)/3.3_sum_of_max.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.4_smart_split" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3.4_my_pow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,11 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functions(T3)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/2.4_smart_split.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions(T3)/3.4_my_pow.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.5_raiting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3.5_string_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes(T2)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functions(T3)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes(T2)/2.5_raiting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions(T3)/3.5_string_sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.6_goods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3.6_titling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,11 +144,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes(T2)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functions(T3)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes(T2)/2.6_goods.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions(T3)/3.6_titling.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2.6_goods" />
-        <item itemvalue="Python.2.5_raiting" />
-        <item itemvalue="Python.2.4_smart_split" />
-        <item itemvalue="Python.2.3_months" />
-        <item itemvalue="Python.2.2_pairs_swap" />
+        <item itemvalue="Python.3.6_titling" />
+        <item itemvalue="Python.3.5_string_sum" />
+        <item itemvalue="Python.3.4_my_pow" />
+        <item itemvalue="Python.3.3_sum_of_max" />
+        <item itemvalue="Python.3.2_user_info" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +228,49 @@
       <option name="project" value="LOCAL" />
       <updated>1604847400374</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Task 3.1. Division">
+      <created>1605358380934</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605358380934</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Task 3.2. User Info">
+      <created>1605362479469</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605362479469</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Task 3.3. Sum of max numbers">
+      <created>1605363086877</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605363086877</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Task 3.4. My Pow">
+      <created>1605363794201</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605363794201</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Task 3.5. String Summary">
+      <created>1605365769068</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605365769068</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Corrections of Task 3.5">
+      <created>1605367231902</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1605367231902</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -248,56 +293,83 @@
     <MESSAGE value="Corrections" />
     <MESSAGE value="Task 2.4. Smart split" />
     <MESSAGE value="Task 2.5. Rating" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 2.5. Rating" />
+    <MESSAGE value="Task 3.1. Division" />
+    <MESSAGE value="Task 3.2. User Info" />
+    <MESSAGE value="Task 3.3. Sum of max numbers" />
+    <MESSAGE value="Task 3.4. My Pow" />
+    <MESSAGE value="Task 3.5. String Summary" />
+    <MESSAGE value="Corrections of Task 3.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrections of Task 3.5" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="907" y="379" key="#Inspections" timestamp="1605362671001">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="907" y="379" key="#Inspections/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605362671001" />
     <state x="1061" y="456" key="FileChooserDialogImpl" timestamp="1604839926985">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1061" y="456" key="FileChooserDialogImpl/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604839926985" />
-    <state width="2539" height="398" key="GridCell.Tab.0.bottom" timestamp="1605029613161">
+    <state width="2539" height="261" key="GridCell.Tab.0.bottom" timestamp="1605368674606">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1259" height="262" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1280.1116.1280.984@-1280.1116.1280.984" timestamp="1604510545797" />
-    <state width="2539" height="398" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605029613161" />
-    <state width="2539" height="398" key="GridCell.Tab.0.center" timestamp="1605029613161">
+    <state width="2539" height="261" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605368674606" />
+    <state width="2539" height="261" key="GridCell.Tab.0.center" timestamp="1605368674606">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1259" height="262" key="GridCell.Tab.0.center/0.0.2560.1400/-1280.1116.1280.984@-1280.1116.1280.984" timestamp="1604510545797" />
-    <state width="2539" height="398" key="GridCell.Tab.0.center/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605029613161" />
-    <state width="2539" height="398" key="GridCell.Tab.0.left" timestamp="1605029613161">
+    <state width="2539" height="261" key="GridCell.Tab.0.center/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605368674606" />
+    <state width="2539" height="261" key="GridCell.Tab.0.left" timestamp="1605368674606">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1259" height="262" key="GridCell.Tab.0.left/0.0.2560.1400/-1280.1116.1280.984@-1280.1116.1280.984" timestamp="1604510545797" />
-    <state width="2539" height="398" key="GridCell.Tab.0.left/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605029613161" />
-    <state width="2539" height="398" key="GridCell.Tab.0.right" timestamp="1605029613161">
+    <state width="2539" height="261" key="GridCell.Tab.0.left/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605368674606" />
+    <state width="2539" height="261" key="GridCell.Tab.0.right" timestamp="1605368674606">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1259" height="262" key="GridCell.Tab.0.right/0.0.2560.1400/-1280.1116.1280.984@-1280.1116.1280.984" timestamp="1604510545797" />
-    <state width="2539" height="398" key="GridCell.Tab.0.right/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605029613161" />
-    <state width="2539" height="492" key="GridCell.Tab.1.bottom" timestamp="1605028571198">
+    <state width="2539" height="261" key="GridCell.Tab.0.right/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605368674606" />
+    <state width="2539" height="492" key="GridCell.Tab.1.bottom" timestamp="1605368125372">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605028571198" />
-    <state width="2539" height="492" key="GridCell.Tab.1.center" timestamp="1605028571198">
+    <state width="2539" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605368125372" />
+    <state width="2539" height="492" key="GridCell.Tab.1.center" timestamp="1605368125372">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="492" key="GridCell.Tab.1.center/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605028571198" />
-    <state width="2539" height="492" key="GridCell.Tab.1.left" timestamp="1605028571198">
+    <state width="2539" height="492" key="GridCell.Tab.1.center/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605368125372" />
+    <state width="2539" height="492" key="GridCell.Tab.1.left" timestamp="1605368125372">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="492" key="GridCell.Tab.1.left/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605028571198" />
-    <state width="2539" height="492" key="GridCell.Tab.1.right" timestamp="1605028571198">
+    <state width="2539" height="492" key="GridCell.Tab.1.left/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605368125372" />
+    <state width="2539" height="492" key="GridCell.Tab.1.right" timestamp="1605368125372">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="492" key="GridCell.Tab.1.right/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605028571198" />
-    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1604841456852">
+    <state width="2539" height="492" key="GridCell.Tab.1.right/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605368125372" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1605364561845">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1604841456852" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/-1280.1116.1280.984@0.0.2560.1400" timestamp="1605364561845" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Functions(T3)/3.1_division.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Functions(T3)/3.5_string_sum.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Functions(T3)/3.6_titling.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
