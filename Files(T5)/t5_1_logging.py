@@ -9,7 +9,6 @@ def logging():
     """
     file_name = 'log.txt'
     with open(file_name, "w", encoding='utf-8') as out_file:
-        print('Введите строки \nВведите пустую строку, чтобы закончить ввод')
         while True:
             input_string = input('> ')
             if input_string:
@@ -20,4 +19,5 @@ def logging():
 
 
 if __name__ == '__main__':
+    print('Введите строки \nВведите пустую строку, чтобы закончить ввод')
     logging()
