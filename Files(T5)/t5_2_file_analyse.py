@@ -19,8 +19,7 @@ def file_analyse(file_name):
 if __name__ == '__main__':
     # Здесь используется файл, который создается функцией из первого задания
     print('Введите строки \nВведите пустую строку, чтобы закончить ввод')
-    file_info = file_analyse(t5_1.logging())
-    print(file_info)
+    file_info = file_analyse(t5_1.input_lines())
 
     print(f'File has {len(file_info)} lines:')
     for line_c in range(len(file_info)):
