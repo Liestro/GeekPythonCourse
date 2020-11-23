@@ -20,4 +20,4 @@ class Road:
 
 
 if __name__ == '__main__':
-    print(Road(20, 5000).asphalt_mass())
+    print(Road(5000, 20).asphalt_mass())
